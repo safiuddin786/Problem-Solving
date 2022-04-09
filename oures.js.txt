@@ -1,0 +1,3 @@
+document.querySelector("#AutoNumber6 > tbody > tr:nth-child(1) > td > b > font > input[type=text]:nth-child(1)").value = "160418733020";
+await document.querySelector("#AutoNumber6 > tbody > tr:nth-child(1) > td > b > font > input[type=image]:nth-child(2)").click();
+document.querySelector("#AutoNumber5 > tbody > tr:nth-child(3) > td:nth-child(2) > b > font").textContent;
