@@ -1,0 +1,10 @@
+
+J
+java:S1066"/Merge this if statement with the enclosing one.(È¾·úÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷È¼ù
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ØÆıÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

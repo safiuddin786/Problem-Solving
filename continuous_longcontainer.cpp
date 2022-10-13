@@ -4,11 +4,8 @@
 using namespace std;
 int main(){
     vector<int> b{1, 1};
-
-
     vector<int> a = b;
-
-
+    
 // counts the number of previous blocks with same level or higher
     int temp_count=0;
     int max_dist=0;
